@@ -1,0 +1,7 @@
+C:\Users\Programmer\Desktop\StudentsRepositoryApp\StudentsRepositoryApp\obj\Debug\StudentsRepositoryApp.csprojAssemblyReference.cache
+C:\Users\Programmer\Desktop\StudentsRepositoryApp\StudentsRepositoryApp\obj\Debug\StudentsRepositoryApp.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\Desktop\StudentsRepositoryApp\StudentsRepositoryApp\bin\Debug\StudentsRepositoryApp.exe.config
+C:\Users\Programmer\Desktop\StudentsRepositoryApp\StudentsRepositoryApp\bin\Debug\StudentsRepositoryApp.exe
+C:\Users\Programmer\Desktop\StudentsRepositoryApp\StudentsRepositoryApp\bin\Debug\StudentsRepositoryApp.pdb
+C:\Users\Programmer\Desktop\StudentsRepositoryApp\StudentsRepositoryApp\obj\Debug\StudentsRepositoryApp.exe
+C:\Users\Programmer\Desktop\StudentsRepositoryApp\StudentsRepositoryApp\obj\Debug\StudentsRepositoryApp.pdb
